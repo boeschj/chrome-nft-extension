@@ -1,3 +1,7 @@
+# Setup
+Add a .env file to the root directory with the following:
+## `REACT_APP_ALCHEMY_API_KEY=[YOUR_ALCHEMY_API_KEY]`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
